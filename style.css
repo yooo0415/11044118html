@@ -1,0 +1,98 @@
+body{
+	background-color:#f6edd9;
+}
+
+header{
+    width:90%;
+	margin:auto;
+	max-width:1000px;
+	text-align:center;
+	background-color:bisque;
+    color: #c29f74;
+    height:auto;
+    font-size: 20px;  
+	border-radius: 20px; 
+}  
+
+main{
+    width:90%;
+	margin:auto;
+	max-width:1000px;
+	    	
+}   
+
+h2{
+	width:fit-content;
+	margin:auto;
+	margin-top:20px;
+	margin-bottom:20px;
+	text-align:center;
+	background-color:bisque;
+	color: #c29f74;
+	border-radius: 20px; 
+}
+ 
+article{
+	margin-top:20px;
+	padding:20px;
+	text-align:center;
+	background-color:#c29f74;
+    color:#faf8f5;
+    border-radius: 20px;
+	
+}  
+
+.data{
+	margin:20px;
+	text-align:center;
+	display:flex;
+}
+
+section{
+	display:flex;
+}
+
+.card{
+	float:left;
+	flex:1;
+	margin:20px;
+	font-size:20px;
+	text-align:left;
+}
+.center{
+	float:left;
+	margin:auto;
+	margin-top:20px;
+	margin-bottom:10px;
+	padding:10px;
+	text-align:center;
+	background-color:#c29f74;
+    color:#faf8f5;
+    border-radius: 20px;
+	height: auto;
+	
+}
+
+.container {
+    width:80%;
+	margin:auto;
+    height: 25px;
+    border-radius: 25px;
+    background: #faf1dc;
+	text-align: right;
+	font-weight: bold;
+}
+.progress {
+    height: 25px;
+    border-radius: 25px 0 0 25px;
+    background:#edb877;
+}
+.copyright{
+	text-align: center;
+	line-height: 5px;
+	color: #faf8f5;
+	margin: 20px;
+	padding: 10px;
+    height: 70px;
+    background: #edb877
+}
